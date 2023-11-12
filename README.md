@@ -19,9 +19,9 @@ I have honed my skills over the years and have a strong understanding of program
 - 👯 I’m looking to collaborate on [Nexus OS](https://www.github.com/Yash12007/Nexus) - a user-friendly application for Windows, Android, and browsers with tools inspired by Windows and Android.
 - 🤔 I’m looking for help with [LunaChat](https://www.github.com/Yash12007/LunaChat) - a hybrid of Instagram and Snapchat.
 - 📫 To reach me:
--   [Instagram](https://www.instagram.com/__yash12007__)
--   [Facebook](https://www.facebook.com/yash12007)
--   [LinkedIn](https://www.linkedin.com/in/yash12007/)
--   [YouTube](https://www.youtube.com/@Yash12007)
--   [GitHub](https://www.github.com/Yash12007)
--   [Replit](https://www.replit.com/@Yash12007)
+  [Instagram](https://www.instagram.com/__yash12007__)
+  [Facebook](https://www.facebook.com/yash12007)
+  [LinkedIn](https://www.linkedin.com/in/yash12007/)
+  [YouTube](https://www.youtube.com/@Yash12007)
+  [GitHub](https://www.github.com/Yash12007)
+  [Replit](https://www.replit.com/@Yash12007)
