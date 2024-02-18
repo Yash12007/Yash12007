@@ -11,8 +11,6 @@ DON'T FORGET TO VISIT OUR OFFICIAL WEBSITE: https://www.yash12007.com
 
 #### Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-__yash12007__-orange)](https://www.instagram.com/__yash12007__)
-[![Facebook](https://img.shields.io/badge/Facebook-yash12007-blue)](https://www.facebook.com/yash12007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash12007-blue)](https://www.linkedin.com/in/yash12007/)
 [![YouTube](https://img.shields.io/badge/YouTube-Yash12007-red)](https://www.youtube.com/@Yash12007)
 [![GitHub](https://img.shields.io/badge/GitHub-Yash12007-lightgrey)](https://www.github.com/Yash12007)
