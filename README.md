@@ -1,11 +1,9 @@
 <h1 align="center">Welcome to Yash12007</h1>
 <h3 align="center">A software development company dedicated to providing high quality software and services to businesses and organisations of all sizes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash12007&label=Profile%20views&color=0e75b6&style=flat" alt="yash12007" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash12007" alt="yash12007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_yash12007" target="blank"><img src="https://img.shields.io/twitter/follow/_yash12007?logo=twitter&style=for-the-badge" alt="_yash12007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_Yash12007_" target="blank"><img src="https://img.shields.io/twitter/follow/_Yash12007_?logo=twitter&style=for-the-badge" alt="_Yash12007_" /></a> </p>
 
 - 🔭 We're currently working on [Nexus OS](https://github.com/Yash12007/Nexus)
 - 👯 We're looking to collaborate on [Alice AI](https://github.com/Yash12007/Alice_AI)
