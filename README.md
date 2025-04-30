@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Yash12007</h1>
 <h3 align="center">A software development company dedicated to providing high quality software and services to businesses and organisations of all sizes.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash12007" alt="yash12007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yash12007" alt="yash12007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_Yash12007_" target="blank"><img src="https://img.shields.io/twitter/follow/_Yash12007_?logo=twitter&style=for-the-badge" alt="_Yash12007_" /></a> </p>
 
@@ -39,9 +39,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash12007&show_icons=true&locale=en&layout=compact" alt="yash12007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash12007&theme=dark&show_icons=true&locale=en&layout=compact" alt="yash12007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash12007&show_icons=true&locale=en" alt="yash12007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash12007&theme=dark&show_icons=true&locale=en" alt="yash12007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash12007&" alt="yash12007" /></p>
 
