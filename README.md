@@ -23,6 +23,16 @@
 [![](https://visitcount.itsvg.in/api?id=Yash12007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💳 Payment Methods We Accept  
+
+<div style="display:flex; place-items:center;">
+       <a href="bitcoin:bc1qqnpv2s7n9dvuly5626wvzt066tmgwm3hgn3gv9">
+             <img src="https://img.shields.io/badge/Bitcoin-pay-orange?logo=bitcoin" alt="Pay with Bitcoin">
+       </a>
+       <a href="ethereum:0x4D9Cd0F078fF4169F32D0d3b8ACb838854B7bA8D">
+             <img src="https://img.shields.io/badge/Ethereum-pay-blue?logo=ethereum" alt="Pay with Ethereum">
+       </a>
+</div>
+
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yash12007) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yash12007) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Yash12007) [![Razorpay](https://img.shields.io/badge/Razorpay-Donate-007af6?style=for-the-badge&logo=razorpay)](https://razorpay.me/@yash12007) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yash12007) 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ffffff?style=for-the-badge&logo=github)](https://www.github.com/sponsors/Yash12007)
 
