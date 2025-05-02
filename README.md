@@ -1,13 +1,14 @@
-# 🚀 Welcome to Yash12007
-* A Software development company
+ 🚀 Welcome to Yash12007
+ ---
+ A Software development company
 
-🔭 We're currently working on Nexus OS
-👯 We're looking to collaborate on Alice AI
-🤝 We're looking for help with LunaChat
-📝 Read our articles on https://blog.yash12007.com
-💬 Ask us about Software/Application development for multiple platforms
-📫 How to us info@yash12007.com
-📄 Know about our experiences https://in.linkedin.com/company/yash12007
+- 🔭 We're currently working on Nexus OS
+- 👯 We're looking to collaborate on Alice AI
+- 🤝 We're looking for help with LunaChat
+- 📝 Read our articles on https://blog.yash12007.com
+- 💬 Ask us about Software/Application development for multiple platforms
+- 📫 How to us info@yash12007.com
+- 📄 Know about our experiences https://in.linkedin.com/company/yash12007
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/bhNdDrx8) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yash12007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash12007_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/company/yash12007) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yash12007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yash12007) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yash-Bodhe-8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21639319/yash12007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Yash12007_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCDrxRy_Y-mNcKAO9MNGOUyA) 
