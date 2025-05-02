@@ -7,7 +7,7 @@ A software development company dedicated to providing high quality software and 
 - 🤝 We're looking for help with LunaChat
 - 📝 Read our articles on https://blog.yash12007.com
 - 💬 Ask us about Software/Application development for multiple platforms
-- 📫 How to us info@yash12007.com
+- 📫 How to contact us info@yash12007.com
 - 📄 Know about our experiences https://in.linkedin.com/company/yash12007
 
 ## 🌐Socials
