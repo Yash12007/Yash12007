@@ -1,6 +1,6 @@
- 🚀 Welcome to Yash12007
- ---
- A Software development company
+🚀 Welcome to Yash12007
+---
+A software development company dedicated to providing high quality software and services to businesses of all sizes
 
 - 🔭 We're currently working on Nexus OS
 - 👯 We're looking to collaborate on Alice AI
