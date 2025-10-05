@@ -34,7 +34,7 @@ A software development company dedicated to providing high quality software and 
        </a>
 </div>
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yash12007) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yash12007) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Yash12007) [![Razorpay](https://img.shields.io/badge/Razorpay-Donate-007af6?style=for-the-badge&logo=razorpay)](https://razorpay.me/@yash12007) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yash12007) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yash12007) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yash12007ofc) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Yash12007) [![Razorpay](https://img.shields.io/badge/Razorpay-Donate-007af6?style=for-the-badge&logo=razorpay)](https://razorpay.me/@yash12007) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yash12007) 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ffffff?style=for-the-badge&logo=github)](https://www.github.com/sponsors/Yash12007)
 
 ❤️ Thank You for Your Support!
