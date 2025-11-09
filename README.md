@@ -26,10 +26,10 @@ A software development company dedicated to providing high quality software and 
 ## 💳 Payment Methods We Accept  
 
 <div style="display:flex; place-items:center;">
-       <a href="https://www.blockchain.com/explorer/address/bc1qqnpv2s7n9dvuly5626wvzt066tmgwm3hgn3gv9">
+       <a href="bitcoin:bc1qqnpv2s7n9dvuly5626wvzt066tmgwm3hgn3gv9">
              <img src="https://img.shields.io/badge/Bitcoin-pay-orange?logo=bitcoin" alt="Pay with Bitcoin">
        </a>
-       <a href="https://etherscan.io/address/0x4D9Cd0F078fF4169F32D0d3b8ACb838854B7bA8D">
+       <a href="ethereum:0x4D9Cd0F078fF4169F32D0d3b8ACb838854B7bA8D">
              <img src="https://img.shields.io/badge/Ethereum-pay-blue?logo=ethereum" alt="Pay with Ethereum">
        </a>
 </div>
